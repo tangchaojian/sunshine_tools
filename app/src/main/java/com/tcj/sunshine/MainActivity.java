@@ -1,4 +1,4 @@
-package com.tcj.sunshine.tools;
+package com.tcj.sunshine;
 
 import androidx.appcompat.app.AppCompatActivity;
 
